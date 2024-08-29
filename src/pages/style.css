@@ -1,0 +1,29 @@
+.main-error-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.error-container {
+    display: flex;
+    height: 80%;
+    width: 70%;
+    background-color: #f6f6f6;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ffffff;
+    border-radius: 9px;
+    padding: 20px;
+}
+.error-text-container {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

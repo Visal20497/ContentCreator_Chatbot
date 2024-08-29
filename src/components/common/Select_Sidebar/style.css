@@ -1,0 +1,28 @@
+.select-label {
+    font-family: Open Sans SemiBold;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 24px;
+    /* text-align: center; */
+}
+.select-tab-container {
+    margin-top: 15px;
+    display: flex;
+    flex-flow: column;
+    padding: 10px;
+    width: 197px;
+    height: 139px;
+    gap: 5px;
+    font-size: 10px;
+}
+
+.select__clear-indicator {
+    display: none;
+}
+.basic-single {
+    font-size: 12px;
+    cursor: pointer;
+}
+.select__control {
+    cursor: pointer !important;
+}

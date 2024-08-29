@@ -1,0 +1,9 @@
+.dialogTitle {
+    font-weight: 400;
+    margin-bottom: 2;
+}
+
+.gird_container {
+    max-height: 276px;
+    overflow: auto;
+}

@@ -1,0 +1,52 @@
+.css-1gtd3rp-MuiPaper-root-MuiDialog-paper {
+    min-width: 600px;
+    font-size: 14px;
+}
+
+.knowledge-repository-content {
+    font-size: 14px;
+}
+
+.title-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Open Sans !important;
+    font-size: 24px !important;
+    font-weight: 300 !important;
+    line-height: 32.68px !important;
+    text-align: left !important;
+    /* border-bottom: 1px solid #000000; */
+    border-bottom: none;
+    margin-bottom: 10px !important;
+}
+
+.knowledge-upload-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.upload-container .MuiPaper-elevation {
+    max-height: 420px;
+    min-height: 300px;
+    width: 600px;
+}
+
+.divider {
+    color: #DEDEDE;
+    border: 1;
+}
+
+.Dialog_Actions {
+    display: flex;
+    justify-content: flex-end;
+    margin: 15px;
+    margin-right: 22px;
+    gap: 20px;
+}
+
+.Button {
+    width: 102px;
+    height: 40px;
+}

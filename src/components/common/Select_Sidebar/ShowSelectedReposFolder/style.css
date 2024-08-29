@@ -1,0 +1,61 @@
+.select-file-input .MuiFormControlLabel-label {
+    font-size: 12px;
+}
+
+.select-file-input {
+    display: flex;
+    border-Bottom: 1px solid #D0D0CE;
+    align-items: center;
+    justify-Content: space-between;
+}
+
+.ArrowBackIosIcon {
+    cursor: pointer;
+}
+
+.close_button {
+    width: 100px;
+}
+
+.select-pragraph {
+    background: #DFDFDF;
+    border-radius: 5px;
+    font-size: 12px;
+    height: 23px;
+    width: 41px;
+    text-align: center;
+    margin: 0px;
+}
+
+.check-item-box {
+    display: flex;
+    flex-direction: column;
+    max-height: 300px;
+    height: 300px;
+    overflow: auto;
+}
+
+.knowledge-upload-container {
+    gap: 8px !important;
+}
+
+.pagination-actions {
+    display: flex;
+    gap: 13px;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid #d0d0ce;
+    padding: 10px 0px;
+}
+
+.pagination-actions p {
+    margin: 0px;
+}
+
+.upload-container .MuiPaper-elevation {
+    width: 400px;
+}
+
+.knowledge-upload-container {
+    padding: 15px 15px !important;
+}

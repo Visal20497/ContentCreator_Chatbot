@@ -1,0 +1,100 @@
+.Button_CloseApp {
+    background-color: #D9D9D9 !important;
+    color: black !important;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+}
+
+.Documents_Box {
+    color: #9E9E9E;
+    font-weight: 500;
+}
+
+.Documents_Box:hover {
+    color: #59a7cf;
+    background-color: transparent;
+}
+
+.Button_settings {
+    border-radius: 24px;
+    padding: 2px;
+}
+
+.Set_Settings {
+    color: #000000 !important;
+    font-Weight: 300 !important;
+    font-size: 24px !important;
+}
+
+.Token_Length {
+    height: 44px;
+    width: 560px;
+    border-radius: 6px;
+    color: #53565A;
+    border: 2px solid #DEDEDE;
+}
+
+.Temperature {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    color: #53565A
+}
+
+.NumberOfQuery {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    color: #53565A;
+}
+
+.Setting_DialogActions {
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    margin: 15px;
+    margin-right: 20px;
+    gap: 20px;
+}
+
+.Settings_button {
+    width: 102px;
+    height: 40px;
+}
+
+.Divider {
+    color: #DEDEDE;
+    margin-top: 4px;
+}
+
+.NewChat_Button {
+    width: 100%;
+    height: 38px;
+    text-transform: initial;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+/* .ChatRander {
+    float: right !important;
+    flex-direction: row-reverse !important;
+    gap: 18px !important;
+    align-items: flex-start !important;
+    background: #D1E6FF !important;
+    padding: 10px !important;
+    border-radius: 8px !important;
+}
+
+.ChatRander1 {
+    border: 1px solid #BDBDBD !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    align-items: flex-start !important;
+} */
+.FeedBackImg {
+    border-radius: 50%;
+}
